@@ -9,7 +9,7 @@
 
 - Website [https://bit.ly/comoomPunkTsucht-GHP](https://bit.ly/comoomPunkTsucht-GHP)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/combooms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="combooms" height="30" width="40" /></a>
 <a href="https://instagram.com/comboom.sucht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comboom.sucht" height="30" width="40" /></a>
