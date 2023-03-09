@@ -7,7 +7,7 @@
 
 - our webseite Repo [comboom.sucht-BLOG](https://github.com/comboomPunkTsucht/comboom.sucht-BLOG)
 
-- Website [https://bit.ly/comoomPunkTsucht-GHP](https://bit.ly/comoomPunkTsucht-GHP)
+- Website [https://bit.ly/comoomPunkTsucht-GHP](https://comboompunktsucht.ddns.net/)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
