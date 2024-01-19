@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/combooms" target="blank"><img src="https://img.shields.io/twitter/follow/combooms?logo=twitter&style=for-the-badge" alt="combooms" /></a> </p>
 
-- Website: [https://comboompunktsucht.netlify.app/](https://comboompunktsucht.netlify.app/)
+- Website: [https://comboompunksucht.app/](https://comboompunksucht.app/)
   <br/>
   [![Netlify Status](https://api.netlify.com/api/v1/badges/f54ccfef-391c-437f-a3aa-d025aaf73784/deploy-status)](https://app.netlify.com/sites/comboompunktsucht/deploys)
 
